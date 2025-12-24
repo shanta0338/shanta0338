@@ -1,16 +1,69 @@
-<h1 align="center">Hi 👋, I'm Shanta Majumder</h1>
-<h3 align="center">A passionate Data Scientist</h3>
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
+  <h1>Hi there, I'm Shanta Majumder! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shanta0338&label=Profile%20views&color=0e75b6&style=flat" alt="shanta0338" /> </p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Data+Scientist+%F0%9F%93%8A;Machine+Learning+Enthusiast+%F0%9F%A4%96;Deep+Learning+Explorer+%F0%9F%A7%A0;Python+Developer+%F0%9F%90%8D" alt="Typing SVG" />
+  </a>
+</div>
 
-- 🌱 I’m currently learning **Pytorch, Spacy**
+<div align="center">
+  <h3>🧠 Focusing on Data Science, Artificial Intelligence & Deep Learning</h3>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shanta-majumder-564894333/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shanta-majumder-564894333/" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shanta0338&show_icons=true&locale=en&layout=compact" alt="shanta0338" /></p>
+- 🔭 I’m currently working on **Machine Learning & Deep Learning Projects**
+- 🌱 I’m currently learning **PyTorch, Spacy, and Advanced NLP**
+- 👯 I’m looking to collaborate on **Open Source Data Science Projects**
+- 💬 Ask me about **Python, Data Analysis, and CNNs**
+- 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/shanta-majumder-564894333/)**
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+| **Data Science & AI** | **Languages** | **Web & Tools** |
+|:---:|:---:|:---:|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <br> ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) <br> ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) <br> ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) <br> ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) <br> ![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=python&logoColor=white) | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) <br> ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) <br> ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) <br> ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) <br> ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) <br> ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) <br> ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) <br> ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) |
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shanta0338&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanta0338&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" alt="languages graph" />
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanta0338&theme=tokyonight&hide_border=true" alt="streak stats" />
+</div>
+
+---
+
+### 📂 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **🩺 Disease Prediction** | Machine learning models to predict various types of diseases based on symptoms and medical data. | `Python` `Sklearn` `Pandas` |
+| **📰 Fake News Detection** | NLP-based system to classify news articles as real or fake using trained models. | `NLP` `Python` `ML` |
+| **🧠 Mental Health Classification** | Analytical project focusing on classifying mental health status using datasets. | `Data Analysis` `Jupyter` |
+| **🦠 Cancer & Bacteria Detection** | Using Convolutional Neural Networks (CNN) for image-based medical diagnosis. | `CNN` `Deep Learning` |
+| **☁️ Weather Prediction** | CNN-based weather forecasting model. | `CNN` `Python` |
+
+---
+
+<div align="center">
+  <h3>🤝 Connect with me</h3>
+  <a href="https://www.linkedin.com/in/shanta-majumder-564894333/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
