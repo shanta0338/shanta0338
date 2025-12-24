@@ -35,22 +35,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shanta0338&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shanta0338&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanta0338&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### 📂 Featured Projects
 
 | Project | Description | Tech Stack |
@@ -62,6 +46,11 @@
 | **☁️ Weather Prediction** | CNN-based weather forecasting model. | `CNN` `Python` |
 
 ---
+
+<div align="center">
+  <h3>👀 Profile Visits</h3>
+  <img src="https://komarev.com/ghpvc/?username=shanta0338&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Shanta0338 Profile Views" />
+</div>
 
 <div align="center">
   <h3>🤝 Connect with me</h3>
