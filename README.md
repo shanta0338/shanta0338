@@ -43,18 +43,6 @@
 
 ---
 
-### 📂 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **🩺 Disease Prediction** | Machine learning models to predict various types of diseases based on symptoms and medical data. | `Python` `Sklearn` `Pandas` |
-| **📰 Fake News Detection** | NLP-based system to classify news articles as real or fake using trained models. | `NLP` `Python` `ML` |
-| **🧠 Mental Health Classification** | Analytical project focusing on classifying mental health status using datasets. | `Data Analysis` `Jupyter` |
-| **🦠 Cancer & Bacteria Detection** | Using Convolutional Neural Networks (CNN) for image-based medical diagnosis. | `CNN` `Deep Learning` |
-| **☁️ Weather Prediction** | CNN-based weather forecasting model. | `CNN` `Python` |
-
----
-
 <div align="center">
   <h3>👀 Profile Visits</h3>
   <img src="https://komarev.com/ghpvc/?username=shanta0338&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Shanta0338 Profile Views" />
