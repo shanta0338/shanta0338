@@ -15,10 +15,12 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Machine Learning & Deep Learning Projects**
+-🔬 NLP Researcher · RAG · Agentic AI · SLMs
+-📍 Daffodil International University, Bangladesh
+-🚀 Deploying ML models to HuggingFace Spaces
+-🎯 Targeting MSc in AI — Fall 2027 (Sweden / Europe)
 - 🌱 I’m currently learning **PyTorch, Spacy, and Advanced NLP**
 - 👯 I’m looking to collaborate on **Open Source Data Science Projects**
-- 💬 Ask me about **Python, Data Analysis, and CNNs**
 - 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/shanta-majumder-564894333/)**
 
 ---
