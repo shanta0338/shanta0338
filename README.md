@@ -15,19 +15,19 @@
 
 ### 👨‍💻 About Me
 
--🔬 NLP Researcher · RAG · Agentic AI · SLMs 
+🔬 NLP Researcher · RAG · Agentic AI · SLMs 
 
--📍 Daffodil International University, Bangladesh
+📍 Daffodil International University, Bangladesh
 
--🚀 Deploying ML models to HuggingFace Spaces
+🚀 Deploying ML models to HuggingFace Spaces
 
--🎯 Targeting MSc in AI — Fall 2027 (Sweden / Europe)
+🎯 Targeting MSc in AI — Fall 2027 (Sweden / Europe)
 
-- 🌱 I’m currently learning **PyTorch, Spacy, and Advanced NLP**
+🌱 I’m currently learning **PyTorch, Spacy, and Advanced NLP**
 
-- 👯 I’m looking to collaborate on **Open Source Data Science Projects**
+👯 I’m looking to collaborate on **Open Source Data Science Projects**
   
-- 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/shanta-majumder-564894333/)**
+📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/shanta-majumder-564894333/)**
 
 ---
 
