@@ -83,45 +83,7 @@ Current contributions include:
 * [PR #2426 — NHiTS Example](https://github.com/sktime/pytorch-forecasting/pull/2426)
 * [PR #2427 — TiDE Example](https://github.com/sktime/pytorch-forecasting/pull/2427)
 
----
 
-## 🚀 Selected Projects
-
-### 🌦️ Global Weather and Location Prediction Engine
-
-A machine-learning system for predicting locations from meteorological data.
-
-**Tech:** Python · PyTorch · Scikit-learn · Pandas · Streamlit
-
-* Feature engineering and meteorological data preprocessing
-* MLP-based prediction model
-* **77% classification accuracy**
-* Interactive Streamlit deployment
-
----
-
-### 📰 Fake News Detection using NLP
-
-An NLP-based system for classifying news articles as real or fake.
-
-**Tech:** Python · spaCy · Scikit-learn
-
-* Text preprocessing and semantic feature extraction
-* Compared Random Forest, Gradient Boosting, KNN and Multinomial Naïve Bayes
-* **90% classification accuracy using Gradient Boosting**
-
----
-
-### 🧬 Multiple Diseases Prediction
-
-An ensemble machine-learning system using a **Stacking Classifier**.
-
-**Tech:** Python · Scikit-learn · Optuna · Streamlit
-
-* Automated hyperparameter optimisation
-* Random-search-based model optimisation
-* **96% classification accuracy**
-* Interactive web deployment
 
 ---
 
@@ -197,27 +159,7 @@ Daffodil International University, Bangladesh
 
 </div>
 
----
 
-## 🤝 Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/shanta-majumder-564894333/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://scholar.google.com/">
-  <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
-</a>
-
-<a href="https://github.com/shanta0338">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-</div>
-
----
 
 <div align="center">
 
