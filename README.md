@@ -130,27 +130,6 @@ I am especially interested in **research-oriented open-source projects** where t
 
 ---
 
-## 🎓 Education
-
-**B.Sc. in Software Engineering — Major in Data Science**
-Daffodil International University, Bangladesh
-
-**CGPA: 3.72 / 4.00**
-
----
-
-
-
-## 👀 Profile Visits
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=shanta0338&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
-
-</div>
-
-
-
 <div align="center">
 
 ### Building, researching, and contributing — one experiment at a time.
