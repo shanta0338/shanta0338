@@ -9,7 +9,7 @@
   </a>
 
   <p>
-    <b>Software Engineering Graduate Major in Data Science /b>
+    <b>Software Engineering Graduate Major in Data Science </b>
   </p>
 
 </div>
