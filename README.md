@@ -23,12 +23,13 @@ I am a **Software Engineering graduate specialising in Data Science** from **Daf
 My current research interests centre around:
 
 * **Natural Language Processing (NLP)**
+* **Machine Learning and Deep Learning**
 * **Retrieval-Augmented Generation (RAG)**
+* **IT Automation**
 * **Agentic AI and multi-step reasoning**
 * **Small Language Models (SLMs)**
 * **Resource-efficient and privacy-preserving AI**
-* **Weather Forecasting**
-* **Quantum Computing**
+* **Quantum Machine Learning**
 
 I am particularly interested in designing AI systems that are not only accurate, but also **efficient, verifiable, and practical in resource-constrained environments**.
 
