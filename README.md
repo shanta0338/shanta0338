@@ -9,7 +9,7 @@
   </a>
 
   <p>
-    <b>Software Engineering Graduate · Data Science · AI Research · Open Source</b>
+    <b>Software Engineering Graduate · Data Science · Quantum Machine Learning · IT Automation</b>
   </p>
 
 </div>
