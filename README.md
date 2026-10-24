@@ -121,16 +121,6 @@ Current contributions include:
 
 ---
 
-## 📚 Research & Learning
-
-Currently exploring:
-
-**Agentic AI → RAG → Small Language Models → NLP → Efficient AI → Weather Forecasting → Quantum Computing**
-
-I am especially interested in **research-oriented open-source projects** where theoretical ideas can be translated into reproducible implementations.
-
----
-
 <div align="center">
 
 ### Building, researching, and contributing — one experiment at a time.
