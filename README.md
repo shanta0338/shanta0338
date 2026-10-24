@@ -8,10 +8,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Data+Science;NLP+%7C+Agentic+AI+%7C+RAG;Small+Language+Models+%7C+Deep+Learning;Open+Source+Contributor;Research+%7C+AI+Systems" alt="Typing SVG" />
   </a>
 
-  <p>
-    <b>Software Engineering Graduate Major in Data Science </b>
-  </p>
-
 </div>
 
 ---
