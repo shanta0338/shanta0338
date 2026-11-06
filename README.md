@@ -33,57 +33,6 @@ I am particularly interested in designing AI systems that are not only accurate,
 
 ---
 
-## 🔬 Research
-
-### Agent-Verified RAG with Small Language Models
-
-My undergraduate thesis focused on developing an **agent-verified Retrieval-Augmented Generation framework** for resource-constrained environments.
-
-Key areas of work included:
-
-* Designing dual-retrieval and verification pipelines using **LangGraph**
-* Exploring multi-step reasoning and agentic verification
-* Working with **Small Language Models (SLMs)**
-* Evaluating Context Relevance, Faithfulness and Semantic Similarity
-* Benchmarking on **MS MARCO, TriviaQA, HotpotQA and 2WikiMultiHop**
-* Analysing inference and pipeline latency
-
-📄 **Publication**
-
-**An Agent-Verified System for Resource-Constrained Query-Focused Summarisation using Small Language Models**
-
-*Shanta Majumder · Suprove Chandra Sarkar*
-
-Preprint: Research Square / ResearchGate
-Currently under review in *SN Computer Science*
-
----
-
-## 🌍 Open Source
-
-### `pytorch-forecasting`
-
-I contribute to open-source machine learning infrastructure and documentation, with a focus on **deep-learning-based time-series forecasting**.
-
-Current contributions include:
-
-* Reproducible API usage examples and executable doctests
-* Documentation for **RecurrentNetwork, NHiTS and TiDE**
-* Minimal `TimeSeriesDataSet` pipelines
-* Architecture-specific `input_chunk_length` and `output_chunk_length` constraints
-* CI/CD and linting improvements using **pre-commit and Ruff**
-* Testing with lightweight PyTorch Lightning configurations
-
-🔗 Pull Requests:
-
-* [PR #2425 — RecurrentNetwork Example](https://github.com/sktime/pytorch-forecasting/pull/2425)
-* [PR #2426 — NHiTS Example](https://github.com/sktime/pytorch-forecasting/pull/2426)
-* [PR #2427 — TiDE Example](https://github.com/sktime/pytorch-forecasting/pull/2427)
-
-
-
----
-
 ## 🛠️ Technical Skills
 
 ### Artificial Intelligence & Machine Learning
