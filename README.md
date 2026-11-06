@@ -27,8 +27,6 @@ My current research interests centre around:
 * **Resource-efficient and privacy-preserving AI**
 * **Quantum Machine Learning**
 
-I am particularly interested in designing AI systems that are not only accurate, but also **efficient, verifiable, and practical in resource-constrained environments**.
-
 📄 I am the author of a preprint on an **Agent-Verified RAG architecture using Small Language Models**, currently under peer review.
 
 ---
